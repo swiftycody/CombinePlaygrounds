@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Section1"
+      name = "Section 1">
+      <FileRef
+         location = "group:1.HelloCombine.playground">
+      </FileRef>
+      <FileRef
+         location = "group:2.PublishersAndSubscribers.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Section 2. Operators"
+      name = "Section 2. Operators">
+      <FileRef
+         location = "group:FilteringOperators.playground">
+      </FileRef>
+      <FileRef
+         location = "group:TransformingOperators.playground">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Essentials.playground">
+   </FileRef>
+</Workspace>
