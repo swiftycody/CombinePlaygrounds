@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <FileRef
+      location = "group:Essentials.playground">
+   </FileRef>
    <Group
       location = "group:Section1"
       name = "Section 1">
@@ -15,13 +18,13 @@
       location = "group:Section 2. Operators"
       name = "Section 2. Operators">
       <FileRef
-         location = "group:FilteringOperators.playground">
+         location = "group:/Users/hongsol/Documents/GitHub/CombinePlaygrounds/Section 2. Operators/1. TransformingOperators.playground">
       </FileRef>
       <FileRef
-         location = "group:TransformingOperators.playground">
+         location = "group:/Users/hongsol/Documents/GitHub/CombinePlaygrounds/Section 2. Operators/2. FilteringOperators.playground">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/hongsol/Documents/GitHub/CombinePlaygrounds/Section 2. Operators/3. Combining Operators.playground">
       </FileRef>
    </Group>
-   <FileRef
-      location = "group:Essentials.playground">
-   </FileRef>
 </Workspace>
