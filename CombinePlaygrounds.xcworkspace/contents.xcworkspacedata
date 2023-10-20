@@ -18,13 +18,16 @@
       location = "group:Section 2. Operators"
       name = "Section 2. Operators">
       <FileRef
-         location = "group:/Users/hongsol/Documents/GitHub/CombinePlaygrounds/Section 2. Operators/1. TransformingOperators.playground">
+         location = "group:/Users/hongsol/Documents/GitHub/CombinePlaygrounds/Section 2. Operators/3. TransformingOperators.playground">
       </FileRef>
       <FileRef
-         location = "group:/Users/hongsol/Documents/GitHub/CombinePlaygrounds/Section 2. Operators/2. FilteringOperators.playground">
+         location = "group:/Users/hongsol/Documents/GitHub/CombinePlaygrounds/Section 2. Operators/4. FilteringOperators.playground">
       </FileRef>
       <FileRef
-         location = "group:/Users/hongsol/Documents/GitHub/CombinePlaygrounds/Section 2. Operators/3. Combining Operators.playground">
+         location = "group:/Users/hongsol/Documents/GitHub/CombinePlaygrounds/Section 2. Operators/5. Combining Operators.playground">
+      </FileRef>
+      <FileRef
+         location = "group:6. Time Manipulation Operators.playground">
       </FileRef>
    </Group>
 </Workspace>

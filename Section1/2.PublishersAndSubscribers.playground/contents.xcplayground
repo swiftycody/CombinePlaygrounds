@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1.Publisher'/>
+        <page name='Untitled Page'/>
+        <page name='2.Subscriber'/>
+        <page name='3.just'/>
+        <page name='4.assign'/>
+        <page name='5.CustomSubscriber'/>
+        <page name='6.Future'/>
+        <page name='7.Subject'/>
+        <page name='8.TypeErasure'/>
+    </pages>
 </playground>
