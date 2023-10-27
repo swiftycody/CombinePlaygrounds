@@ -29,5 +29,8 @@
       <FileRef
          location = "group:6. Time Manipulation Operators.playground">
       </FileRef>
+      <FileRef
+         location = "group:7. Sequence Operators.playground">
+      </FileRef>
    </Group>
 </Workspace>
